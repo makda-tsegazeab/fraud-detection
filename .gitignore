@@ -1,0 +1,69 @@
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+>>>>>>> task2-model-building
+=======
+>>>>>>> task2-model-building
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+data/creditcard/
+data/processed/
+data/raw/
+
+<<<<<<< HEAD
+
+
+# Data files (ignore large CSVs or raw data you don't want on GitHub)
+data/creditcard/creditcard.csv
+data/processed/
+=======
+=======
+>>>>>>> task2-model-building
+# Data files (ignore large CSVs or raw data you don't want on GitHub)
+
+data/processed/
+data/raw/creditcard.csv
+<<<<<<< HEAD
+>>>>>>> task2-model-building
+=======
+>>>>>>> task2-model-building
+data/raw/Fraud_Data.csv
+data/raw/IpAddress_to_Country.csv
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Git LFS pointer files (if you use LFS later)
+*.lock
+=======
+
+<<<<<<< HEAD
+data/creditcard/
+=======
+
+
+=======
+>>>>>>> task2-model-building
+data/processed/
+data/raw/
+
+=======
+data/creditcard/
+data/processed/
+data/raw/
+>>>>>>> Stashed changes
